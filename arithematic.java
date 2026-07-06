@@ -8,6 +8,6 @@ public class arithematic{
         int prod = a*b;
         int div = a/b;
 
-        System.out.println("The sum of a and b = "+sum+"\nDifference = "+diff+"\n Product = "+prod+"\nDifference = "+div);
+        System.out.println("The sum of a and b = "+sum+"\nDifference = "+diff+"\n Product = "+prod+"\nDivision = "+div);
     }
 }
